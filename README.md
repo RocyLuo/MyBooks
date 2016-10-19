@@ -1,3 +1,4 @@
-# My Awesome Book
+# 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+此文档是学习《高性能MySQL》一书时总结的学习笔记。其中主要包括索引和查询优化部分。
+
